@@ -1,5 +1,11 @@
 #short{
     color: white;
     background-color: blue;
-    
+    border: 10px;
+    margin-top: 2px;
+}
+#tall{
+    background-color: blueviolet;
+    color: azure;
+    font-size: smaller;
 }
